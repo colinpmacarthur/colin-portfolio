@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <contact-info>
+        <name>Colin P. MacArthur</name>
+        <phone>(505) 310-3082</phone>
+        <email>colinpmacarthur@gmail.com</email>
+        <address>42 Alpine Street #1, Somerville, MA 02144</address>
+	<website>http://www.colinmacarthur.org</website>
+    </contact-info>
+    <title>User Experience Researcher</title>
+    <activity type="work" start="2014-03-01" end="2014-12-01" start-text="March 2014 - Current">
+        <title>Principal Consultant</title>
+        <employer>Almond Consultants</employer>
+        <locality>Boston</locality>
+        <region>MA</region>
+        <description>
+            <ul>
+                <li>
+                    Designed and conducted four focus groups, 40 usability tests and five stakeholder meetings to iteratively redesign seven school district websites.
+                </li>
+                <li>
+			Designed and conducted surveys and experiments that measured the success of a National Park's youth programs.
+                </li>
+            </ul>
+        </description>
+        <projects>
+            <project>
+                <client>Los Alamos Public Schools</client>
+                <dates>March - August 2012</dates>
+                <slug>laps</slug>
+                <nav>Redesigning School Websites</nav>
+                <bg-image>images/losalamos.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>Los Alamos Public Schools needed to simplify and streamline its websites.</header>
+                        <body>
+                            LAPS' websites were cluterred and hard to navigate. Parents, teachers and the school board members were clamoring for a simpler navigation scheme and visual design.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Question</type>
+                        <header>I asked: How might we recategorize and relabel existing content to better meet parent needs?</header>
+                        <body>
+                            School staff don't have time to create content, but could recategorize and relabele existing content to make navigation the website easier.
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I conducted focus groups and usability tests to identify essential content and the best organization scheme.</header>
+                        <body>
+                            <image url="images/laps_dashboard.png" float="left" width="10em">
+                                <title>A website analytics summary I used to provoke focus group discussion</title>
+                            </image>
+                            I conducted focus groups with parents, teachers and administrators representing elementary schools, the middle school, high school and the district office to identify their goals for the website and what content was most essential to meeting them. I then conducted three rounds of usability testing on prototypes of a new elementary, middle school, high school and district office website. I designed the prototypes, revised them after each test and presented my findings to several groups of staff and administrators. 
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>Parents navigated school websites faster and happier after the redesign.</header>
+                        
+                        <body>
+                            <image url="images/laps_template.png" float="right" width="10em">
+                                <title>An elementary school website prototype</title>
+                            </image>
+                            In follow-up usability testing, parents navigated school websites faster, with fewer clicks and less frustration. Many commented that they felt more appreciated by the school district after participating in usability testing. School staff also saw the value of usability testing and asked me to train them how to to it themselves.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: Usability includes more than interfaces.</header>
+                        <body>
+                            Over the course of the usability testing, I learned much more about the district and its parents than I expected. When I started usability tests, I heard thoughts of the district's leadership, teacher performance and the challenges of parenting. I realized all these things were part of "the usability of the school district," even though it wasn't my job to change many of them. 
+                        </body>
+                    </section>
+                </story>
+            </project>
+            <project>
+                <client>Acadia National Park</client>
+                <dates>June - July 2014</dates>
+                <slug>acadia-persuading</slug>
+                <nav>Persuading Visitors to Download Digital Publications</nav>
+                <bg-image>images/acadia-persuading_bg.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>Acadia National Parks spends hundreds of thousands of dollars printing paper publications.</header>
+                        <body>
+                            <image url="images/acadia-persuading_brochure.jpg" float="left" width="10em">
+                                <title>One of Acadia's trademark, but expensive to produce, brochures.</title>
+                            </image>
+                            Acadia spends hundreds of thousands of dollars printing paper maps, brochures and flyers that most visitors trash within days of recieving them. Producing paper publications also hurts the environment.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Question</type>
+                        <header>I asked: How might we persuade visitors to use digital alternatives to paper publications?</header>
+                        <body>
+                            Visitor studies show that most visitors carry a smartphone (or sometimes a tablet) with them on short walks into the park, especially on Acadia's "Carriage Road" system. Park staff wondered whether we could persuade them to use a digital alternative.
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I designed and conducted a field experiment to test approaches for convincing visitors to use digital publications.</header>
+                        <body>
+                            <image url="images/acadia-persuading_counter.jpg" float="right" width="10em">
+                                <title>An infrared people counter, one of the tools I used during the experiment.</title>
+                            </image>
+                            I conducted an experiment at the entrance to one of Acadia's carriage roads (walking/biking paths) to test different ways of encouraging visitors PDF versions of paper publications. I set up a limited WiFi hotspot where visitors could download a digital version of the carriage road map. Then, on different days, I used different tactics to encourage them to use the digital map. On one day, a sign exhorted visitors to “be green" by downloading the digital map instead of taking the paper one. On another day, we took away the paper maps and forced visitors to ask us for them (if they wanted them). On a another day, we asked visitors to take a photo of an enlarged map with their phones (instead of downloading a map or taking a paper one). On all of these days, we used infrared sesnors to calculate the percentage of bicyclists, walkers and device holders who took the paper map or downloaded the digital one. We compared these numbers to a “control condition” where we just gave people instructions on downloading the digital map, without additional encouragement.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>My research inspired park managers to think more about data-driven decision making.</header>
+                        <body>
+                            <image url="images/acadia-persuading_graph.png"	 float="left" width="20em">
+                                <title>Percentage of bikers and walkers who downloaded the digital and paper publication in various experiment conditions.</title>
+                            </image>
+                            When we found that none of our persuasion tactics measurably increased the number of times visitors downloaded the paper publication, park managers had to re-examine their assumptions. It turned out that not nearly as many visitors took publications at the carriage road entrance as they expected. Park leadership so enjoyed using data to challenge their assumptions that they started asking more data-driven questions about interpretation. 
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: Start with the assumptions.</header>
+                        <body>
+                            We started this project wrongly assuming that publications were "flying off the shelf" at the carriage road entrance. In future, I'd challenge (and look for pre-existing data supporting) the guiding assumptions of the experiment before it gets off the ground.
+                        </body>
+                    </section>
+                </story>
+            </project>
+        </projects>
+    </activity>
+<activity type="work" start="2013-01-12" start-text="January 2013 - March 2014">
+        <title>Project Manager, User Experience Researcher</title>
+        <employer>36 Views Digital Publishing</employer>
+        <locality>San Francisco</locality>
+        <region>CA</region>
+        <description>
+            <ul>
+                <li>
+                    Designed, conducted and led others conducting five focus groups, 20 remote mobile usability tests, several diary studies, surveys, literature reviews and key stakeholder interviews to discover new market opportunities for major clients, including the California State Park Foundation.
+                </li>
+            </ul>
+        </description>
+        <projects>
+            <project>
+                <dates>May - September 2013</dates>
+                <slug>36views</slug>
+                <nav>36 Views Lean Product Development</nav>
+                <bg-image>images/bridge.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>Designing museum and art digital books is hard.</header>
+                        <body>
+                            Industry experts agree no one has a winning design for digital art books, but 36 Views think it can do it.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Question</type>
+                        <header>I asked: How might our development process minimize the risk of digital art books?</header>
+                        <body>
+                            Maybe finding the right design isn't just about the right product, but the right process.
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I created and tested a new, lean research and product design process.</header>
+                        <body>
+                            <image url="images/36views_prototype.png" float="left" width="10em">
+                                <title>One of our "lean prototypes"</title>
+                            </image>
+                            I designed a process of rapid cycles of design and testing to explore new ideas and identify profitable ones. Although original, this process was inspired by <em>The Lean Startup</em> and <em>The Agile Manifesto</em>. I trained our team on this new approach, and tested it by building quick prototypes, conducting remote user tests and reporting on the results. 
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>My lean development process became was part of the value proposition for new clients.</header>
+                        <body>
+                            As well as netting useful insights for a pending project, trying this new process showed its value. We now explain our lean approach to new clients as a unique (for this industry) approach to make sure they focus on what customer's want (and spend little  on everything else).    
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: Becoming lean is about building a culture of "hypothesis testing."</header>
+                        <body>
+                            As I trained our team, I realized using the process wouldn't make us lean. It would be when we started thinking of new ideas a "hypotheses to be tested" instead of "products to be developed." Being a "lean" company is not just frequent design/test cycles, but about sharing the mindset that big ideas deserve small tests.
+                        </body>
+                    </section>
+                </story>
+            </project>
+            <project>
+                <dates>February - March 2014</dates>
+                <slug>WNPA</slug>
+                <nav>3D Imaging for National Parks</nav>
+                <bg-image>images/petroglyphs.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>National parks have a trove of 3D imagery, but don't make them available to the public.</header>
+                        <body>
+							<image url="images/wnpa_george.png" float="right" width="10em">
+                                <title>A 3D image of George Washington on Mt. Rushmore</title>
+                            </image>
+                            Many western National Parks have created digital, 3D representations of their archeological sites and topography. These "scans" are intended both for preservation and public use, but few visitors encounter these unique perspectives.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Question</type>
+                        <header>We asked: What unmet needs could 3D images help parks meet?</header>
+                        <body>
+                            Insteading of assuming this technology was inherently interesting to visitors, we asked what existing unmet visitor needs it could  meet.
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I led a team conducting a "competitive analysis" and panel survey that led to reccomendations about how to use 3D imaging.</header>
+                        <body>
+                            I led a team of three people responsible for interviewing companies that create museum exhibits, kiosks, websites and apps from 3D imaging. We explored how parkj 3D images could be turned into polished interpretive media. We then designed and conducted a panel survey of 200 national park visitors to identify unmet needs or "pain points" that 3D imaging might be able to meet. 
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>Our research lead to new product ideas for Western National Parks Association.</header>
+                        <body>
+                            Western National Parks Association uses our research to design new products that incorpate 3D imaging. They also passed our reccomendations to the National Park Service's Intermountain Region office.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: Designing surveys requires many iterations.</header>
+                        <body>
+                            I planned to design the survey in two weeks. I was wrong. It took ten iterations to get the questions and interactions right, but tt was worth it -- our client had total faith in our results.
+                        </body>
+                    </section>
+                </story>
+            </project>
+        </projects>
+    </activity>
+    <activity type="work" start="2011-03-01" end="2011-08-01" start-text="March 2011 - August 2011">
+        <title>Project Manager, User Experience Researcher</title>
+        <employer>National Park Service</employer>
+        <locality>Acadia National Park</locality>
+        <region>ME</region>
+        <description>
+            <ul>
+ 
+                <li>
+                    Supervised team of six conducting more than two dozen participatory design sessions, 40 visitor interviews, and 19 stakeholder interviews to develop first park interpretive technology plan in the National Park Service.
+                </li>
+                </ul>
+        </description>
+        <projects>
+            <project>
+                <client>Acadia National Park</client>
+                <dates>March - August 2011</dates>
+                <slug>acadia</slug>
+                <nav>Acadia Youth Technology Co-Design</nav>
+                <bg-image>images/cadilac_mountain.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>Parks need to build their next generation of advocates.</header>
+                        <body>
+                            
+                            Current 12-17 year olds are less likely to visit national parks than any other age group. But parks need them to become the next generation of park stewards and advocoates.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Research Question</type>
+                        <header>We asked: How might technology connect youth to Acadia?</header>
+                        <body>
+                            <image url="images/acadia_ipad.png" float="right" width="6em">
+                                <title>A young person uses an iPad in the park</title>
+                            </image>
+                            
+                            
+                            The internet, smartphones, GPS, digital signage and sensor networks are an increasingly large part of park visitors' experience. Instead of decrying the effect of technology on the park experience, we wondered how technology could deepen peoples' (especially young peoples') connection with their parks.
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I managed the first Park Service team co-designing park technology <em>with</em> young people, instead of <em>for</em> them.</header>
+                        <body>
+                            <image url="images/acadia_team.png" float="left" width="10em">
+                                <title>The team of interns and assistant leader</title>
+                            </image>
+                            I led a team of high school interns observing their and others' park experiences, generating insights, and writing proposals for  park websites, apps, games and programs. I also liased with a visiting organizational behavior PhD student, who created detailed plans for implementing the youth ideas. I also managed an assistant team leader, who kept the group safe and happy.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>Our proposals for new websites, apps and other technologies kick-started a multi-year technology development program at Acadia.</header>
+                        <body>
+                            <image url="images/acadia_tech_plan_cover.png" float="right" width="8em">
+                                <title>The team's 11 proposals were compiled into Acadia's first Interpretive Technology Plan</title>
+                            </image>
+                            The team wrote 11 proposals for using mobile devices, websites and other technology to better connect young people with the landscape and enhance the visitor experience. Almost all were funded and developed in subsequent years. The high schoolers (now college juniors) who designed the projects are still involved in their creation and maintenance.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: Co-design requires learning which burdens to share (and not) with your co-designers.</header>
+                        <body>
+                            All my expectations about what my high school co-designers would want to do (and not) were wrong. I thought they wouldn't want to write proposals, but they did. I thought they'd be interested in the technical details, but they weren't. I'd just share the design process with them, but learned which parts to share with them.
+                        </body>
+                    </section>
+                </story>
+            </project>
+        </projects>
+    </activity>
+    <activity type="work" start="2008-03-01" end="2010-12-01" start-text="March 2008 - December 2010">
+        <title>Techology Designer and Implementer</title>
+        <employer>National Park Service</employer>
+        <locality>Bandelier National Monument</locality>
+        <region>NM</region>
+        <description>
+            <ul>
+                <li>
+                    Envisioned, developed and maintained 12 public-facing technology projects, including a social media presence and database systems.
+                </li>
+                <li>
+                    Awarded two Department of the Interior Special Thanks for Achieving Results (STAR) awards.
+                </li>
+            </ul>
+        </description>
+    </activity>
+    <activity type="education" start="2012-08-01" expected="2014-05-01" start-text="Expected May 2014">
+        <school>School of Information, UC Berkeley</school>
+        <school-short-name>UC Berkeley I School</school-short-name>
+        <degree>Master of Information Management and Systems</degree>
+        <locality>Berkeley</locality>
+        <region>CA</region>
+        <focus>User Experience Research, Project Management</focus>
+        <highlight>GPA 3.9; Runner Up: Chen Award for Best Final Project</highlight>
+	<timing>2014</timing>
+        <projects>
+            <project>
+                <client>California State Parks Foundation</client>
+                <dates>January - May 2013</dates>
+                <slug>calparks</slug>
+                <nav>State Park Visitor Information Needs</nav>
+                <bg-image>images/torrey_pines.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>California State park visitors need new, better sources of information about their parks.</header>
+                        <body>
+                            <image url="images/calparks_save_our_parks.png" float="right" width="6em">
+                                <title>CSPF's Save Our Parks campaign logo</title>
+                            </image>
+                            California State Park Foundation (CSPF) discovered that state park visitors desperately wanted more information about state parks. The old solutions to the problem, like building new signs, are too expensive and bureaucratically complicated.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Research Question</type>
+                        <header>We asked: What information do California's state park visitors want? Would they use mobile devices to get it?</header>
+                        <body>Standard park media designers start by asking, "What do we want visitors to know?" We took a different, user-centered approach and asked "What information do park visitors want?" Instead of assuming that visitors like using their tablets and phones in all stages of their park visit, we explored what they like using and when.   
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I managed a team of graduate students conducting diary studies, in-park observations, focus groups to identify unmet needs.</header>
+                        <body>
+                            <image url="images/calparks_focus_group.png" float="left" width="10em">
+                                <title>Focus group at Baldwin Hills Scenic Overlook</title>
+                            </image>
+                            We explored unmet needs in focus groups and diary studies in Northern and Sourthern California and a survey to further explore visitor's use of technology, especially post-visit. I created the project schedule, led our team meetings, communicated with project stakeholders, held group members to deadlines and established processes for recruiting. I conducted in-park observations and wrote much of our final reccomendations and designed the "park activites diagram" below. I was the sole presenter of our findings to State Park Foundation leadership team. 
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>We suggested creating an app which could generate revenue for the State Park foundation.</header>
+                        <body>
+                            <image url="images/calparks_diagram.png" float="right" width="10em">
+                                <title>Diagram of park information seeking activities</title>
+                            </image>
+                            We identified 10 information-seeking activities many park visitors do and explored how various existing sources of information met those needs. I worked with the product design team at 36 Views to envision an app which could meet unmet needs and be financially sustainable. The Park Foundation is considering making the app a cornerstone of their new media / new revenue program. 
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: researchers must think both hot and cold.</header>
+                        <body>
+                            Many psychologists argue we have two systems of thinking: a "hot," emotional system and a "cold," deliberative one. After dragging my team through a weekend of gradual, but unproductive, affinity diagramming, I realized  generating insights sometimes requires thinking hot. When we limited our time and set a temporary moratorium on "overthinking," we found what ultimately mattered to the State Park Foundation. We double checked those "hot insights" systematically later, but learned to trust some emotion in initial qualitiative data analysis.
+                        </body>
+                    </section>
+                </story>
+            </project>
+            <project>
+                <client>Myself</client>
+                <dates>October 2013</dates>
+                <slug>emrs</slug>
+                <nav>Changing Behavior with Electronic Medical Records</nav>
+                <bg-image>images/veggies.jpg</bg-image>
+                <story>
+                    <section>
+                        <type>Motivation</type>
+                        <header>Getting people to start preventative health behaviors is hard.</header>
+                        <body>
+                            There are many apps, websites and devices that help us eat better and exercise more. But none are sa ofted used as patient-facing electronic medical records.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Question</type>
+                        <header>I asked: How might patient-facing electronic medical direct visitors to preventative health behaviors?</header>
+                        <body>
+                            Patient-facing electronic medical records, or the website patients visit to see upcoming doctor's appointments and test results, are the most frequently used medical technology. They currently play little role in changing patient behavior. For my "Health Care and the Information Economy" class, I explored how patient-facing EMRs could help people change their behavior.
+                        </body>
+                    </section>
+                    <section>
+                        <type>My role</type>
+                        <header>I tested interface tweaks to a common patient-facing EMR which could drive patients to a online intervention program.</header>
+                        <body>
+                            <image url="images/emrs_modified_screen.png" float="left" width="10em">
+                                <title>One alternative EMR screen design</title>
+                            </image>
+                            After reviewing existing academic research on patient-facing electronic medical record use and persuasive techniques, I used Photoshop to create four alternative versions of an EMR's test results page. Each employed a different persuasive technique to encourage users to click the "sign up for an online exercise program" link. I then showed 50 Mechanical Turk users each version (for a total 200 participants) and asked them where they would click.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Results / Impact</type>
+                        <header>Reducing the graphical complexity of the test results lead 35% more people to the behavioral intervention.</header>
+                        <body>
+                            <image url="images/emrs_graph.png" float="right" width="15em">
+                                <title>Number of clicks to intervention by persuasive technique</title>
+                            </image>
+                            When Mechanical Turk users were presented with test results in a graph, instead of a table, they were far more likely to click on the "sign up for an exercise program" link. The results of this preliminary test suggest that interface changes, particularly those that reduce complexity, can persuade more people to persue a preventative health behavior.
+                        </body>
+                    </section>
+                    <section>
+                        <type>Lessons Learned</type>
+                        <header>What I learned: Stand on the shoulers of giants.</header>
+                        <body>
+                            When I started this project, I thought I would come up with create miraculous behavior-changing interface tweaks myself. But the really effective interface changes were drawn for years of behavior change research I applied to the new context. I learned the value of thorough review of other's work, before jumping into my own work of the future.
+                        </body>
+                    </section>
+                </story>
+            </project>
+        </projects>
+    </activity>
+    <activity type="education" start="2008-08-01" end="2012-05-01"  start-text="August 2008 - May 2012">
+        <school>Carleton College</school>
+        <degree>Bachelor of Arts in Psychology</degree>
+        <locality>Northfield</locality>
+        <region>MN</region>
+        <focus>Human-Computer Interaction</focus>
+        <highlight>GPA 3.9; Summa Cum Laude</highlight>
+	<timing>2012</timing>
+    </activity>
+    <skills>
+        <group name="Research Skills">
+            <skill>In-person Usability Tests</skill>
+            <skill>Remote Usability Tests</skill>
+            <skill>Computer-Assisted Telephone Interviewing</skill>
+            <skill>Focus Groups</skill>
+            <skill>Surveys</skill>
+            <skill>Website Analytics</skill>
+            <skill>Diary Studies</skill>
+            <skill>Literature Reviews</skill>
+        </group>
+        <group name="Software">
+            <skill>SPSS</skill>
+            <skill>R</skill>
+            <skill>Qualtrics</skill>
+            <skill>FileMaker Pro</skill>
+            <skill>Adobe Illustrator</skill>
+            <skill>Adobe InDesign</skill>
+        </group>
+        <group name="Programming Languages">
+            <skill>Python</skill>
+            <skill>PHP</skill>
+            <skill>MySQL</skill>
+            <skill>XPath, XSLT, XSD</skill>
+        </group>
+        
+    </skills>
+</portfolio>
