@@ -39,7 +39,6 @@
                                 </div>
                                 <div class="story"><xsl:apply-templates select="story" /></div>
                             </div>
-<xsl:call-template name="analytics" />
                         </body>
                     </html>
                 </xsl:result-document>
@@ -96,7 +95,6 @@
                                 </xsl:for-each>
                             </div>
                         </div>
-<xsl:call-template name="analytics" />
                     </body>
                 </html>
             </xsl:result-document>
@@ -129,7 +127,6 @@
                             
                         </div>
                     </body>
-<xsl:call-template name="analytics" />
                 </html>
             </xsl:result-document>
     </xsl:template>
